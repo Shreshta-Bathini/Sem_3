@@ -1,0 +1,4 @@
+{ 
+    "problem": "circular-vs-linear",
+    "makefile.configureOnOpen": false
+}

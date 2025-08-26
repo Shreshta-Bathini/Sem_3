@@ -1,0 +1,17 @@
+stack int 2
+push 68
+push 67
+pop
+push 21
+pop
+push 91
+push 100
+push 2
+push 55
+push 43
+push 49
+pop
+push 28
+push 32
+push 57
+print

@@ -1,0 +1,22 @@
+Introduction - programming, debugging, and matrix multiplication
+----------------------------------------------------------------
+
+In this lab, you will learn to deal with our basic programming environment.
+
+1. [Evaluated problem] The first problem is about measuring average running time of the binary search. This problem is graded.
+
+Read: avg-binary/README.md
+
+2. The second problem is about finding the lengths at which the vectors increase their capacity and
+the cost of allocating extra space.
+
+Read:  alloc/README.md
+
+3. The third problem is about implementing Strassen algorithm and finding the point after which the algorithm becomes faster than the naive algorithm.
+
+Read: strassen/README.md
+
+
+Please try to get the first two done.
+
+

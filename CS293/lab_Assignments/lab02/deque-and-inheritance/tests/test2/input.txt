@@ -1,0 +1,8 @@
+stack int 2
+push 10
+push 20
+push 30
+print
+pop
+print
+peek

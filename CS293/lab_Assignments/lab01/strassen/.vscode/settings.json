@@ -1,0 +1,4 @@
+{ 
+    "problem": "strassen",
+    "makefile.configureOnOpen": false
+}

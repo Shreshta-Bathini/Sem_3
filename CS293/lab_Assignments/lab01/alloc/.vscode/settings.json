@@ -1,0 +1,4 @@
+{ 
+    "problem": "alloc",
+    "makefile.configureOnOpen": false
+}

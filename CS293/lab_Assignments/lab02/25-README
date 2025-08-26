@@ -1,0 +1,20 @@
+Stacks and Queues
+-----------------
+
+In this lab, you will learn how to implement stacks and queues.
+
+1. [Evaluated Problem] The first problem is about reversing a linked list.
+Read: reverse/README.md
+
+2. The second problem involves implementing a queue using stacks while considering the cost of allocating extra space.
+Read: queue-with-stacks/README.md
+
+3. The third problem compares circular and linear queue implementations.
+Read: circular-vs-linear/README.md
+
+4. [Practice Problem] The fourth problem is about implementing a Deque class and using inheritance to define Stack and Queue from it.
+Read: deque-and-inheritance/README.md
+
+
+
+

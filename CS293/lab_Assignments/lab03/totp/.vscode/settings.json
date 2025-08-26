@@ -1,0 +1,4 @@
+{ 
+    "problem": "totp",
+    "makefile.configureOnOpen": false
+}

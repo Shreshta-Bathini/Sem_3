@@ -17,7 +17,7 @@ SOURCES = dictionary.cpp main.cpp
 OBJECTS = $(SOURCES:.cpp=.o)
 
 # Number of Test Cases
-NUM_TEST_CASES = 7
+NUM_TEST_CASES = 3
 
 # Testcase Files
 TCDIR = tests

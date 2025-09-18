@@ -1,4 +1,4 @@
-
+#include "common.h"
 
 using namespace std;
 
@@ -13,6 +13,9 @@ class Deque
         // TODO: Complete the overloading function. 
         // HINT: You just have to populate the ostream (output stream) with the members of the deque
         // array! Look at the testcases to see how the print should look like
+        for(auto h : dq) {
+          out  << h << " "<<endl;
+        }
         return out; // dummy
     }
 
@@ -23,11 +26,15 @@ protected:
     int resize_factor;
     int size;
     bool auto_resize;
+    
+
 
 public:
     Deque(int cap, bool resize = true, int resize_factor = 2) 
     {       
         // TODO: Implement the constructor that initializes the Deque with a given capacity
+        Deque<T> Q;
+        Q.capacity = capacity;
         // and optionally the resize factor                                    
     }
 
@@ -52,25 +59,28 @@ public:
     void print()
     {
         // TODO: Implement a print function similar to the << overload. You can cout the values. Look at the testcases to see how the print output should look
-
+      
     }
 
     bool is_empty()
     {
         // TODO: Implement the is_empty method to check if the deque is empty
+      if (size == 0)
+        return true;  
       return false; // DUMMY RETURN
     } 
 
     int get_capacity()
     {
         // TODO: Implement a getter for the capacity of the Deque
-      return 0; // DUMMY RETURN
+        
+      return capacity; // DUMMY RETURN
     }
 
     int get_size()
     {
         // TODO: Implement a getter for the size of the Deque
-      return 0; // DUMMY RETURN
+      return size; // DUMMY RETURN
     }
 // ATTENTION !!
 // We DO NOT want to use Deque as a data structure for the purpose of this lab,

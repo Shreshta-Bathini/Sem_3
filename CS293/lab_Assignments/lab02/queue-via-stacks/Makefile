@@ -15,7 +15,7 @@ SOURCES = main.cpp
 OBJECTS = $(SOURCES:.cpp=.o)
 
 # Test configuration
-NUM_TEST_CASES = 5
+NUM_TEST_CASES = 7
 TCDIR = tests
 
 # Default target

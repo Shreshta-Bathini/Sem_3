@@ -1,0 +1,4 @@
+Found pattern at index 2
+Found pattern at index 7
+Found pattern at index 9
+Found pattern at index 14

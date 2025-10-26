@@ -1,0 +1,5 @@
+apple-No
+bat-No
+car-No
+dog-No
+elephant-No

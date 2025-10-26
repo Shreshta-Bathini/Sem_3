@@ -1,0 +1,4 @@
+{ 
+    "problem": "plag-checker",
+    "makefile.configureOnOpen": false
+}

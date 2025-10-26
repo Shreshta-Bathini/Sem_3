@@ -1,0 +1,2 @@
+Transmitted Codeword: 1111000011011110
+Error detected in received message!

@@ -1,0 +1,8 @@
+0
+3
+cat
+dog
+car
+2
+cat
+dog

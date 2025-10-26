@@ -1,0 +1,14 @@
+Introduction
+------------
+
+In this lab, you will learn to deal with trees.
+
+1. The first problem is to implement heap and messure the number of swaps in various operations.
+Read:  heap/README.md
+
+2. A problem on ropes that needs heap.
+Read: rb/README.md      
+
+3. [Bonus] A version of heap.
+Read: leftist/Readme.md
+

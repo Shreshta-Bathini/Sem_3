@@ -1,0 +1,3 @@
+Found pattern at index 1203
+Found pattern at index 3269
+Found pattern at index 6885

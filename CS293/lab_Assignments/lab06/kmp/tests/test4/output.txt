@@ -1,0 +1,2 @@
+Found pattern at index 158 
+Found pattern at index 530 

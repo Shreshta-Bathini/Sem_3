@@ -1,0 +1,18 @@
+Introduction
+------------
+
+In this lab, you will be exploring pattern searching within text
+This lab is divided into three parts - the first involves implementing
+the KMP algorithm, while the second is an implementation and simple application of tries.
+The extra problem is plag-checker, which was part of the project last year.
+
+Please find the problems in folder kmp, trie, and plag-checker.
+
+Read
+
+- kmp/README.md                   (practice)
+- trie/README.md                  (practice)
+- plag-checker/README.md          (bonus)
+
+You must solve kmp and trie.
+

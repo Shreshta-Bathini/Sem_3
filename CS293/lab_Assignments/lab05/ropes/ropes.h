@@ -1,0 +1,1 @@
+int minCost(int [], int);

@@ -1,0 +1,14 @@
+Found pattern at index 51
+Found pattern at index 887
+Found pattern at index 2195
+Found pattern at index 2574
+Found pattern at index 3116
+Found pattern at index 3834
+Found pattern at index 4837
+Found pattern at index 5322
+Found pattern at index 5709
+Found pattern at index 6335
+Found pattern at index 6715
+Found pattern at index 7270
+Found pattern at index 8903
+Found pattern at index 8942

@@ -1,0 +1,15 @@
+1
+7
+cat
+apple
+bat
+batting
+car
+compiler
+april
+4
+d
+e
+a
+
+
